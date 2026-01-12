@@ -10,6 +10,12 @@ A starter template for building web applications with [ElementaryUI](https://ele
 
 Click **Use this template** on GitHub or check the [docs](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template) about using templates.
 
+You can use [degit](https://github.com/Rich-Harris/degit) to scaffold a local project.
+```sh
+npx degit elementary-swift/starter-vite-tailwind my-swift-tailwind-app
+cd my-swift-tailwind-app
+```
+
 <p align="center">
   <img src="https://elementary-swift.github.io/assets/vite-starter-split-screen.gif" alt="Elementary Demo Split Screen">
 </p>

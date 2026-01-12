@@ -3,6 +3,6 @@
         "swift": "html"
     },
     "tailwindCSS.experimental.classRegex": [
-        "\\.class\\(\"([^\"]*)\"\\)"
+        "\\.class\\(\\s*\"([^\"]*)\"\\s*\\)"
     ]
 }
