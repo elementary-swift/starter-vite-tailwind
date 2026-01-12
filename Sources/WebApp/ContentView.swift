@@ -45,7 +45,7 @@ struct ContentView {
                     }
 
                     if model.items.isEmpty {
-                        p(.class("text-center text-slate-400 py-2")) { "No items" }
+                        p(.class("text-center text-slate-300 text-sm py-2")) { #"¯\_(ツ)_/¯"# }
                             .transition(.fade)
                     }
                 }
