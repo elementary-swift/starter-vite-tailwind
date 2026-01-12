@@ -1,0 +1,8 @@
+{
+    "tailwindCSS.includeLanguages": {
+        "swift": "html"
+    },
+    "tailwindCSS.experimental.classRegex": [
+        "\\.class\\(\"([^\"]*)\"\\)"
+    ]
+}
