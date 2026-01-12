@@ -17,7 +17,7 @@ cd my-swift-tailwind-app
 ```
 
 <p align="center">
-  <img src="https://elementary-swift.github.io/assets/vite-starter-split-screen.gif" alt="Elementary Demo Split Screen">
+  <img src="https://elementary-swift.github.io/assets/vite-tailwind-starter-split-screen.gif" alt="Elementary Demo Split Screen">
 </p>
 
 ## Prerequisites
