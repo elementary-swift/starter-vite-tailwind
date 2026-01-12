@@ -14,6 +14,6 @@
     "@elementary-swift/vite-plugin-swift-wasm": "~0.1.0",
     "@tailwindcss/vite": "^4.1.18",
     "tailwindcss": "^4.1.18",
-    "vite": "^8.0.0-beta.2"
+    "vite": "^7.3.1"
   }
 }
