@@ -18,7 +18,7 @@ struct ContentView {
                 div(
                     .class("rounded-2xl bg-white shadow-md overflow-hidden")
                 ) {
-                    ForEach(model.items, key: { $0.id }) { item in
+                    ForEach(model.items) { item in
                         div(
                             .class(
                                 "flex items-center gap-3 px-4 py-3 border-b border-slate-100 last:border-b-0"
