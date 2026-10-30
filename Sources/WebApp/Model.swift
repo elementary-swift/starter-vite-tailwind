@@ -2,7 +2,7 @@ import Reactivity
 
 @Reactive
 final class Model {
-    struct Item {
+    struct Item: Identifiable {
         let id: String
         var title: String
         var detail: String
